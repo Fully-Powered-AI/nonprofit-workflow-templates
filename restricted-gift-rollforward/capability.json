@@ -1,0 +1,46 @@
+{
+  "id": "restricted-gift-rollforward",
+  "name": "Restricted gift rollforward",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The finance lead gets a working schedule for one named restricted fund: opening balance, recorded gifts, coded expenditure and closing balance, with every unresolved difference listed from the gift agreement summary and the ledger detail. Nothing is posted.",
+  "directory": "https://fullypowered.ai/capabilities/restricted-gift-rollforward/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/nonprofits",
+    "industries/education",
+    "industries/healthcare"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "bank-reconciliation-preparation",
+    "journal-entry-preparation",
+    "month-end-close-checklist"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of restricted-gift rollforward work for nonprofits."
+    }
+  ]
+}

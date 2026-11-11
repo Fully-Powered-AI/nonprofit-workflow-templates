@@ -1,0 +1,55 @@
+{
+  "repository": "Fully-Powered-AI/nonprofit-capability-templates",
+  "title": "Nonprofits",
+  "term": "industries/nonprofits",
+  "capabilities": [
+    {
+      "id": "board-minutes-draft",
+      "name": "Board minutes draft",
+      "version": "0.1.0",
+      "summary": "After a board meeting, the secretary gets draft minutes built only from what they supply: notes, agenda, motion text and vote record. Attendance, motions, votes, documents and actions are laid out, and every gap is marked for the secretary to settle.",
+      "path": "board-minutes-draft/",
+      "directory": "https://fullypowered.ai/capabilities/board-minutes-draft/"
+    },
+    {
+      "id": "donor-thank-you-drafts",
+      "name": "Donor thank-you drafts",
+      "version": "0.1.0",
+      "summary": "Donor services staff get one draft thank-you for each new gift, written from the confirmed gift details, the donor's communication preferences and the organization's approved program language. A person checks and sends every message; nothing asks for another gift.",
+      "path": "donor-thank-you-drafts/",
+      "directory": "https://fullypowered.ai/capabilities/donor-thank-you-drafts/"
+    },
+    {
+      "id": "funder-report-draft",
+      "name": "Funder report draft",
+      "version": "0.1.0",
+      "summary": "Before a funder report is due, the grants manager gets a draft written to the funder's own questions, with every number tied to a record, an index of the evidence behind each statement and a list of what is still unanswered. People verify it, approve it and submit it.",
+      "path": "funder-report-draft/",
+      "directory": "https://fullypowered.ai/capabilities/funder-report-draft/"
+    },
+    {
+      "id": "program-outcome-map",
+      "name": "Program outcome map",
+      "version": "0.1.0",
+      "summary": "Before an evaluation, the program and evaluation leads get one map linking each activity to the outcome it is meant to serve, with proposed measures, data sources, assumptions and the questions the evidence cannot yet answer. It claims no impact.",
+      "path": "program-outcome-map/",
+      "directory": "https://fullypowered.ai/capabilities/program-outcome-map/"
+    },
+    {
+      "id": "restricted-gift-rollforward",
+      "name": "Restricted gift rollforward",
+      "version": "0.1.0",
+      "summary": "The finance lead gets a working schedule for one named restricted fund: opening balance, recorded gifts, coded expenditure and closing balance, with every unresolved difference listed from the gift agreement summary and the ledger detail. Nothing is posted.",
+      "path": "restricted-gift-rollforward/",
+      "directory": "https://fullypowered.ai/capabilities/restricted-gift-rollforward/"
+    },
+    {
+      "id": "volunteer-shift-options",
+      "name": "Volunteer shift options",
+      "version": "0.1.0",
+      "summary": "A volunteer lead gets draft shift options once an event's availability replies are in: each role's needs set against who volunteered, the requirements on record and the shifts already confirmed, with every uncovered position shown. The lead checks and confirms; nothing is assigned or sent.",
+      "path": "volunteer-shift-options/",
+      "directory": "https://fullypowered.ai/capabilities/volunteer-shift-options/"
+    }
+  ]
+}

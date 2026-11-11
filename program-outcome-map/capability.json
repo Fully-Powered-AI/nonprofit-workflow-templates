@@ -1,0 +1,47 @@
+{
+  "id": "program-outcome-map",
+  "name": "Program outcome map",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before an evaluation, the program and evaluation leads get one map linking each activity to the outcome it is meant to serve, with proposed measures, data sources, assumptions and the questions the evidence cannot yet answer. It claims no impact.",
+  "directory": "https://fullypowered.ai/capabilities/program-outcome-map/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/nonprofits",
+    "industries/education",
+    "industries/government"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "analysis-plan",
+    "operations-kpi-scorecard",
+    "assumption-map"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of program outcome work for nonprofits."
+    }
+  ]
+}

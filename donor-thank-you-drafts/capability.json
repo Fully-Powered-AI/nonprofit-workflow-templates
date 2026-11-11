@@ -1,0 +1,45 @@
+{
+  "id": "donor-thank-you-drafts",
+  "name": "Donor thank-you drafts",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Donor services staff get one draft thank-you for each new gift, written from the confirmed gift details, the donor's communication preferences and the organization's approved program language. A person checks and sends every message; nothing asks for another gift.",
+  "directory": "https://fullypowered.ai/capabilities/donor-thank-you-drafts/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/nonprofits",
+    "industries/education"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-reply-drafting",
+    "creator-outreach-drafting",
+    "content-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of donor thank-you work for nonprofits."
+    }
+  ]
+}

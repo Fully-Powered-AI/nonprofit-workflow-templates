@@ -1,0 +1,44 @@
+{
+  "id": "board-minutes-draft",
+  "name": "Board minutes draft",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After a board meeting, the secretary gets draft minutes built only from what they supply: notes, agenda, motion text and vote record. Attendance, motions, votes, documents and actions are laid out, and every gap is marked for the secretary to settle.",
+  "directory": "https://fullypowered.ai/capabilities/board-minutes-draft/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/nonprofits",
+    "industries/education"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "board-meeting-pack",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of board minutes work for nonprofits."
+    }
+  ]
+}
