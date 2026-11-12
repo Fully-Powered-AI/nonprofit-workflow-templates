@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "After a board meeting, the secretary gets draft minutes built only from what they supply: notes, agenda, motion text and vote record. Attendance, motions, votes, documents and actions are laid out, and every gap is marked for the secretary to settle.",
-  "directory": "https://fullypowered.ai/workflow templates/board-minutes-draft/",
+  "directory": "https://fullypowered.ai/workflows/board-minutes-draft/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support"

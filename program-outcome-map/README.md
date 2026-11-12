@@ -2,7 +2,7 @@
 
 Before an evaluation, the program and evaluation leads get one map linking each activity to the outcome it is meant to serve, with proposed measures, data sources, assumptions and the questions the evidence cannot yet answer. It claims no impact.
 
-*Workflow template · Nonprofits · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/program-outcome-map/)*
+*Workflow template · Nonprofits · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/program-outcome-map/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on a past program whose evaluation 
 
 ## Related workflow templates
 
-- [Analysis plan](https://fullypowered.ai/workflow templates/analysis-plan/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
-- [Assumption map](https://fullypowered.ai/workflow templates/assumption-map/)
+- [Analysis plan](https://fullypowered.ai/workflows/analysis-plan/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Assumption map](https://fullypowered.ai/workflows/assumption-map/)
 
 ## Make it yours
 

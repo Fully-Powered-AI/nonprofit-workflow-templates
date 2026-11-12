@@ -2,7 +2,7 @@
 
 Before a funder report is due, the grants manager gets a draft written to the funder's own questions, with every number tied to a record, an index of the evidence behind each statement and a list of what is still unanswered. People verify it, approve it and submit it.
 
-*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/funder-report-draft/)*
+*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/funder-report-draft/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a past report your grants manage
 
 ## Related workflow templates
 
-- [Board meeting pack](https://fullypowered.ai/workflow templates/board-meeting-pack/)
-- [Investor update](https://fullypowered.ai/workflow templates/investor-update/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
+- [Investor update](https://fullypowered.ai/workflows/investor-update/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 

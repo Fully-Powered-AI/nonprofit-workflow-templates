@@ -2,7 +2,7 @@
 
 A volunteer lead gets draft shift options once an event's availability replies are in: each role's needs set against who volunteered, the requirements on record and the shifts already confirmed, with every uncovered position shown. The lead checks and confirms; nothing is assigned or sent.
 
-*Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/volunteer-shift-options/)*
+*Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/volunteer-shift-options/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a past event whose staffing you 
 
 ## Related workflow templates
 
-- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
-- [Service roster options](https://fullypowered.ai/workflow templates/service-roster-options/)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Service roster options](https://fullypowered.ai/workflows/service-roster-options/)
 
 ## Make it yours
 

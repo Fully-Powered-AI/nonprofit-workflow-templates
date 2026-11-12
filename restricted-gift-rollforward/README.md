@@ -2,7 +2,7 @@
 
 The finance lead gets a working schedule for one named restricted fund: opening balance, recorded gifts, coded expenditure and closing balance, with every unresolved difference listed from the gift agreement summary and the ledger detail. Nothing is posted.
 
-*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/restricted-gift-rollforward/)*
+*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/restricted-gift-rollforward/)*
 
 ## The outcome
 
@@ -74,9 +74,9 @@ Testing in your environment means running it on a past period whose answer you a
 
 ## Related workflow templates
 
-- [Bank reconciliation preparation](https://fullypowered.ai/workflow templates/bank-reconciliation-preparation/)
-- [Journal entry preparation](https://fullypowered.ai/workflow templates/journal-entry-preparation/)
-- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)
+- [Journal entry preparation](https://fullypowered.ai/workflows/journal-entry-preparation/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
 
 ## Make it yours
 

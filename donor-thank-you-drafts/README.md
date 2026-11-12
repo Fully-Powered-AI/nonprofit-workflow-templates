@@ -2,7 +2,7 @@
 
 Donor services staff get one draft thank-you for each new gift, written from the confirmed gift details, the donor's communication preferences and the organization's approved program language. A person checks and sends every message; nothing asks for another gift.
 
-*Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/donor-thank-you-drafts/)*
+*Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/donor-thank-you-drafts/)*
 
 ## The outcome
 
@@ -72,9 +72,9 @@ Testing in your environment means running it on a past batch whose thank-yous yo
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
-- [Creator outreach drafting](https://fullypowered.ai/workflow templates/creator-outreach-drafting/)
-- [Content plan](https://fullypowered.ai/workflow templates/content-plan/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Creator outreach drafting](https://fullypowered.ai/workflows/creator-outreach-drafting/)
+- [Content plan](https://fullypowered.ai/workflows/content-plan/)
 
 ## Make it yours
 

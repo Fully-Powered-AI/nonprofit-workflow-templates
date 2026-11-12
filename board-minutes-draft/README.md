@@ -2,7 +2,7 @@
 
 After a board meeting, the secretary gets draft minutes built only from what they supply: notes, agenda, motion text and vote record. Attendance, motions, votes, documents and actions are laid out, and every gap is marked for the secretary to settle.
 
-*Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/board-minutes-draft/)*
+*Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-minutes-draft/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past meeting whose approved mi
 
 ## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
-- [Board meeting pack](https://fullypowered.ai/workflow templates/board-meeting-pack/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 
