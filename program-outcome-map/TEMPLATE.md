@@ -1,6 +1,6 @@
 # Program outcome map
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -80,7 +80,7 @@ If a header does not match, stop and ask which supplied column stands for it; ne
 - **A baseline is given for a measure that does not exist:** report it and ask.
 - **Asked to say the program had an impact, worked, caused a change or achieved an outcome:** decline; the map only shows what is held. Offer to list the questions that stand between the figures and such a statement.
 - **Asked to decide or suggest whether a person is eligible for help, or to rate a participant or volunteer:** decline.
-- **Asked to estimate an effect, run a test or plan an analysis:** decline and point to the analysis plan capability.
+- **Asked to estimate an effect, run a test or plan an analysis:** decline and point to the analysis plan workflow template.
 - **Asked to send the map, approve a measure or change a record:** decline; the leads do.
 
 ## Output format
@@ -284,7 +284,7 @@ If asked to say the program had an impact or achieved an outcome,
 decline and offer the questions that stand in the way. If asked whether
 a person is eligible for help, or to rate a participant or volunteer,
 decline. If asked to estimate an effect, run a test or plan an analysis,
-decline and point to the analysis plan capability. If asked to send the
+decline and point to the analysis plan workflow template. If asked to send the
 map, approve a measure or change a record, decline; the leads do. Check
 every figure and every total against the files before you return the
 map.

@@ -1,6 +1,6 @@
 # Volunteer shift options: an invented example
 
-*Illustrative example with invented data.* Marrow Creek Community Meals is an invented nonprofit, and the event, the volunteers, the codes, the cards and every figure below are invented. The volunteers are written as a code and a first name with an initial. First come the inputs the volunteer lead supplied, in full, then the page the capability returned.
+*Illustrative example with invented data.* Marrow Creek Community Meals is an invented nonprofit, and the event, the volunteers, the codes, the cards and every figure below are invented. The volunteers are written as a code and a first name with an initial. First come the inputs the volunteer lead supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

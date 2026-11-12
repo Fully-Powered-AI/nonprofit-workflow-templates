@@ -2,7 +2,7 @@
 
 Before an evaluation, the program and evaluation leads get one map linking each activity to the outcome it is meant to serve, with proposed measures, data sources, assumptions and the questions the evidence cannot yet answer. It claims no impact.
 
-*Capability template · Nonprofits · Analytics and reporting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/program-outcome-map/)*
+*Workflow template · Nonprofits · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/program-outcome-map/)*
 
 ## The outcome
 
@@ -41,7 +41,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a program in place and an evaluation due.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a program is about to expand and the case for it needs to be clear.
 
-It is not [analysis plan](https://fullypowered.ai/capabilities/analysis-plan/), which plans the questions to put to a particular dataset, and it is not [operations KPI scorecard](https://fullypowered.ai/capabilities/operations-kpi-scorecard/), which reports a fixed set of measures month by month. [Assumption map](https://fullypowered.ai/capabilities/assumption-map/) ranks the untested beliefs behind a product plan; this one lays out the activity-to-outcome links of a program.
+It is not [analysis plan](https://fullypowered.ai/workflows/analysis-plan/), which plans the questions to put to a particular dataset, and it is not [operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/), which reports a fixed set of measures month by month. [Assumption map](https://fullypowered.ai/workflows/assumption-map/) ranks the untested beliefs behind a product plan; this one lays out the activity-to-outcome links of a program.
 
 ## What has to change for your company
 
@@ -49,7 +49,7 @@ Decide who the two leads are and who answers each kind of question. Use your own
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Edits made to the template and the example after that run, including a sharper rule for proposing a link, were checked by hand and not run again from the start; the record lists them. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Edits made to the template and the example after that run, including a sharper rule for proposing a link, were checked by hand and not run again from the start; the record lists them. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past program whose evaluation you already know, with cases written in advance: an activity with no stated outcome, an outcome with no activity, a measure that only counts sessions, feedback not approved for use. The evaluation lead checks every figure against the files supplied before anyone relies on the map.
 
@@ -62,11 +62,11 @@ Testing in your environment means running it on a past program whose evaluation 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,12 +76,12 @@ Testing in your environment means running it on a past program whose evaluation 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Analysis plan](https://fullypowered.ai/capabilities/analysis-plan/)
-- [Operations KPI scorecard](https://fullypowered.ai/capabilities/operations-kpi-scorecard/)
-- [Assumption map](https://fullypowered.ai/capabilities/assumption-map/)
+- [Analysis plan](https://fullypowered.ai/workflow templates/analysis-plan/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
+- [Assumption map](https://fullypowered.ai/workflow templates/assumption-map/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

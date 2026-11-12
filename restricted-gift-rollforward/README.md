@@ -2,7 +2,7 @@
 
 The finance lead gets a working schedule for one named restricted fund: opening balance, recorded gifts, coded expenditure and closing balance, with every unresolved difference listed from the gift agreement summary and the ledger detail. Nothing is posted.
 
-*Capability template · Nonprofits · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/restricted-gift-rollforward/)*
+*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/restricted-gift-rollforward/)*
 
 ## The outcome
 
@@ -37,7 +37,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a ledger and a routine already in place.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when restricted gifts multiply faster than one person can track them.
 
-It is not [bank reconciliation preparation](https://fullypowered.ai/capabilities/bank-reconciliation-preparation/), which matches a bank statement to the books, and it is not [journal entry preparation](https://fullypowered.ai/capabilities/journal-entry-preparation/), which proposes entries. It proposes none.
+It is not [bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/), which matches a bank statement to the books, and it is not [journal entry preparation](https://fullypowered.ai/workflows/journal-entry-preparation/), which proposes entries. It proposes none.
 
 ## What has to change for your company
 
@@ -45,7 +45,7 @@ Keep a summary of each agreement, in your own terms, with the fund. Approve the 
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it, lists the ambiguities it met, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it, lists the ambiguities it met, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past period whose answer you already know, with cases written in advance: a gift with no agreement reference, a gift dated before its agreement began, an expense on an account missing from the coding, a possible duplicate and a ledger balance that does not agree. The finance lead checks every figure against the ledger before anything is relied on.
 
@@ -58,11 +58,11 @@ Testing in your environment means running it on a past period whose answer you a
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -72,12 +72,12 @@ Testing in your environment means running it on a past period whose answer you a
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Bank reconciliation preparation](https://fullypowered.ai/capabilities/bank-reconciliation-preparation/)
-- [Journal entry preparation](https://fullypowered.ai/capabilities/journal-entry-preparation/)
-- [Month-end close checklist](https://fullypowered.ai/capabilities/month-end-close-checklist/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflow templates/bank-reconciliation-preparation/)
+- [Journal entry preparation](https://fullypowered.ai/workflow templates/journal-entry-preparation/)
+- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

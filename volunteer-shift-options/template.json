@@ -1,10 +1,10 @@
 {
   "id": "volunteer-shift-options",
   "name": "Volunteer shift options",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A volunteer lead gets draft shift options once an event's availability replies are in: each role's needs set against who volunteered, the requirements on record and the shifts already confirmed, with every uncovered position shown. The lead checks and confirms; nothing is assigned or sent.",
-  "directory": "https://fullypowered.ai/capabilities/volunteer-shift-options/",
+  "directory": "https://fullypowered.ai/workflow templates/volunteer-shift-options/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

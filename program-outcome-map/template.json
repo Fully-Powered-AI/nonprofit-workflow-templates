@@ -1,10 +1,10 @@
 {
   "id": "program-outcome-map",
   "name": "Program outcome map",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before an evaluation, the program and evaluation leads get one map linking each activity to the outcome it is meant to serve, with proposed measures, data sources, assumptions and the questions the evidence cannot yet answer. It claims no impact.",
-  "directory": "https://fullypowered.ai/capabilities/program-outcome-map/",
+  "directory": "https://fullypowered.ai/workflow templates/program-outcome-map/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting",

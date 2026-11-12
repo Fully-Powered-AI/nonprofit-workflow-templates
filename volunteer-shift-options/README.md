@@ -2,7 +2,7 @@
 
 A volunteer lead gets draft shift options once an event's availability replies are in: each role's needs set against who volunteered, the requirements on record and the shifts already confirmed, with every uncovered position shown. The lead checks and confirms; nothing is assigned or sent.
 
-*Capability template · Nonprofits · People and HR · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/volunteer-shift-options/)*
+*Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/volunteer-shift-options/)*
 
 ## The outcome
 
@@ -40,7 +40,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations that hold the same events year after year.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the volunteer list outgrows what a lead can hold in their head.
 
-It is not the [event plan](https://fullypowered.ai/capabilities/event-plan/), which plans the event itself, and it is not the [employee onboarding plan](https://fullypowered.ai/capabilities/employee-onboarding-plan/), which welcomes someone who has already joined. The [service roster options](https://fullypowered.ai/capabilities/service-roster-options/) work in headcounts for paid staff; this one works with named volunteers and the offers they made.
+It is not the [event plan](https://fullypowered.ai/workflows/event-plan/), which plans the event itself, and it is not the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/), which welcomes someone who has already joined. The [service roster options](https://fullypowered.ai/workflows/service-roster-options/) work in headcounts for paid staff; this one works with named volunteers and the offers they made.
 
 ## What has to change for your company
 
@@ -48,7 +48,7 @@ Rename the roles and shifts to match your events. List the requirements you actu
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. Edits made after that run have not been run again: Option 1 was renamed, its overlap rule now also excludes a volunteer whose drafted shifts overlap, the date style and the rules for "Limit not stated for", "limit reached" and shared questions were settled, and the example was corrected to match. Its acceptance tests 2 to 14 are proposed and have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. Edits made after that run have not been run again: Option 1 was renamed, its overlap rule now also excludes a volunteer whose drafted shifts overlap, the date style and the rules for "Limit not stated for", "limit reached" and shared questions were settled, and the example was corrected to match. Its acceptance tests 2 to 14 are proposed and have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past event whose staffing you already know, with cases written in advance: a reply that covers only part of a shift, an expired card, a volunteer with a note about back-to-back shifts, a pending confirmation and a renamed column. The lead checks every place against the files before anyone is asked to confirm.
 
@@ -61,11 +61,11 @@ Testing in your environment means running it on a past event whose staffing you 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on a past event whose staffing you 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Event plan](https://fullypowered.ai/capabilities/event-plan/)
-- [Employee onboarding plan](https://fullypowered.ai/capabilities/employee-onboarding-plan/)
-- [Service roster options](https://fullypowered.ai/capabilities/service-roster-options/)
+- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
+- [Service roster options](https://fullypowered.ai/workflow templates/service-roster-options/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

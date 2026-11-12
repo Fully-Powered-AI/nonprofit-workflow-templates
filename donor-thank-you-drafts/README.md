@@ -2,7 +2,7 @@
 
 Donor services staff get one draft thank-you for each new gift, written from the confirmed gift details, the donor's communication preferences and the organization's approved program language. A person checks and sends every message; nothing asks for another gift.
 
-*Capability template · Nonprofits · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/donor-thank-you-drafts/)*
+*Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/donor-thank-you-drafts/)*
 
 ## The outcome
 
@@ -35,7 +35,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a donor base and a routine already in place.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when gifts arrive faster than one person can thank them.
 
-It is not [customer reply drafting](https://fullypowered.ai/capabilities/customer-reply-drafting/), which answers a message someone has sent in, and it is not [creator outreach drafting](https://fullypowered.ai/capabilities/creator-outreach-drafting/), which opens a conversation with someone new.
+It is not [customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/), which answers a message someone has sent in, and it is not [creator outreach drafting](https://fullypowered.ai/workflows/creator-outreach-drafting/), which opens a conversation with someone new.
 
 ## What has to change for your company
 
@@ -43,7 +43,7 @@ Decide who signs and in what voice. Write your approved program lines, one per f
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past batch whose thank-yous you already know, with cases written in advance: an anonymous gift, a disputed amount, a donor who asked not to be contacted, a program line that is out of date. Donor services checks every draft against the register before anything is sent.
 
@@ -56,11 +56,11 @@ Testing in your environment means running it on a past batch whose thank-yous yo
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -70,12 +70,12 @@ Testing in your environment means running it on a past batch whose thank-yous yo
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/capabilities/customer-reply-drafting/)
-- [Creator outreach drafting](https://fullypowered.ai/capabilities/creator-outreach-drafting/)
-- [Content plan](https://fullypowered.ai/capabilities/content-plan/)
+- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
+- [Creator outreach drafting](https://fullypowered.ai/workflow templates/creator-outreach-drafting/)
+- [Content plan](https://fullypowered.ai/workflow templates/content-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

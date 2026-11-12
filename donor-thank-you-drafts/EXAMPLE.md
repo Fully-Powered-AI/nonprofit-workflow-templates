@@ -1,6 +1,6 @@
 # Donor thank-you drafts: an invented example
 
-*Illustrative example with invented data.* The organization, the donors, the staff and every figure below are invented. Harbor Lane Food Pantry is an invented small nonprofit. First come the inputs donor services supplied, in full, then the batch page the capability returned.
+*Illustrative example with invented data.* The organization, the donors, the staff and every figure below are invented. Harbor Lane Food Pantry is an invented small nonprofit. First come the inputs donor services supplied, in full, then the batch page the workflow template returned.
 
 ## The inputs
 

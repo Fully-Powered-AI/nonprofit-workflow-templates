@@ -127,4 +127,4 @@ Prepared for Marcus Ibarra. Nothing has been sent, posted or changed in any reco
   - The order of the two approved lines in a tribute draft was taken from the block (Tribute line, then fund line).
   - The run date may fall on a day the gift was already thanked in a previous batch; the template has no way to know.
 - **Not exercised by this run:** a header mismatch, a stale program line, a do-not-contact donor, a missing preferences row, a fund with no line, a tribute gift with no Tribute line, a request for an ask. Acceptance tests 2, 4, 8 and 10 have not been run; test 3 was run on the Anonymous Yes row only.
-- **What this does not show:** it is one run, by one model, on invented data, made with the example in view. It is not a test in a real environment and says nothing about how the capability performs for a real organization.
+- **What this does not show:** it is one run, by one model, on invented data, made with the example in view. It is not a test in a real environment and says nothing about how the workflow template performs for a real organization.

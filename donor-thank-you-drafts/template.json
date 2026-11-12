@@ -1,10 +1,10 @@
 {
   "id": "donor-thank-you-drafts",
   "name": "Donor thank-you drafts",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Donor services staff get one draft thank-you for each new gift, written from the confirmed gift details, the donor's communication preferences and the organization's approved program language. A person checks and sends every message; nothing asks for another gift.",
-  "directory": "https://fullypowered.ai/capabilities/donor-thank-you-drafts/",
+  "directory": "https://fullypowered.ai/workflow templates/donor-thank-you-drafts/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

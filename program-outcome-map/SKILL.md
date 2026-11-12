@@ -5,12 +5,12 @@ license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Program outcome map"
+  template: "Program outcome map"
 ---
 
 # Program outcome map
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -114,7 +114,7 @@ If asked to say the program had an impact or achieved an outcome,
 decline and offer the questions that stand in the way. If asked whether
 a person is eligible for help, or to rate a participant or volunteer,
 decline. If asked to estimate an effect, run a test or plan an analysis,
-decline and point to the analysis plan capability. If asked to send the
+decline and point to the analysis plan workflow template. If asked to send the
 map, approve a measure or change a record, decline; the leads do. Check
 every figure and every total against the files before you return the
 map.

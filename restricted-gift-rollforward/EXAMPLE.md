@@ -1,6 +1,6 @@
 # Restricted gift rollforward: an invented example
 
-*Illustrative example with invented data.* Cedar Row Youth Arts is an invented small nonprofit. The donors, the account names, the references and every figure below are invented. First come the inputs the bookkeeper supplied, in full, then the schedule the capability returned.
+*Illustrative example with invented data.* Cedar Row Youth Arts is an invented small nonprofit. The donors, the account names, the references and every figure below are invented. First come the inputs the bookkeeper supplied, in full, then the schedule the workflow template returned.
 
 ## The inputs
 

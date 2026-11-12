@@ -1,10 +1,10 @@
 {
   "id": "restricted-gift-rollforward",
   "name": "Restricted gift rollforward",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The finance lead gets a working schedule for one named restricted fund: opening balance, recorded gifts, coded expenditure and closing balance, with every unresolved difference listed from the gift agreement summary and the ledger detail. Nothing is posted.",
-  "directory": "https://fullypowered.ai/capabilities/restricted-gift-rollforward/",
+  "directory": "https://fullypowered.ai/workflow templates/restricted-gift-rollforward/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting"

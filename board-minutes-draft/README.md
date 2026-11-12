@@ -2,7 +2,7 @@
 
 After a board meeting, the secretary gets draft minutes built only from what they supply: notes, agenda, motion text and vote record. Attendance, motions, votes, documents and actions are laid out, and every gap is marked for the secretary to settle.
 
-*Capability template · Nonprofits · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/board-minutes-draft/)*
+*Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/board-minutes-draft/)*
 
 ## The outcome
 
@@ -38,7 +38,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), because the work is the secretary's: turning a meeting into a record.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a board and a rhythm of meetings already in place.
 
-It is not [meeting agenda, notes and follow-ups](https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/), which prepares an agenda and a one-page record for whoever runs an ordinary meeting. It is not the [board meeting pack](https://fullypowered.ai/capabilities/board-meeting-pack/), which prepares the board's reading before a meeting. And it is not the [decision log](https://fullypowered.ai/capabilities/decision-log/), which keeps a running register of decisions across meetings.
+It is not [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/), which prepares an agenda and a one-page record for whoever runs an ordinary meeting. It is not the [board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/), which prepares the board's reading before a meeting. And it is not the [decision log](https://fullypowered.ai/workflows/decision-log/), which keeps a running register of decisions across meetings.
 
 ## What has to change for your company
 
@@ -46,7 +46,7 @@ Decide how full your minutes are: decisions and actions only, or a short account
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs in Claude; the record of the second is published with it. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs in Claude; the record of the second is published with it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past meeting whose approved minutes you already have, with cases written in advance: a vote with no result recorded, a decision described in the notes but in no motion, a director who left before a vote, an action with no owner. The secretary checks every line against the record before anyone relies on it.
 
@@ -59,11 +59,11 @@ Testing in your environment means running it on a past meeting whose approved mi
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on a past meeting whose approved mi
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/)
-- [Board meeting pack](https://fullypowered.ai/capabilities/board-meeting-pack/)
-- [Decision log](https://fullypowered.ai/capabilities/decision-log/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
+- [Board meeting pack](https://fullypowered.ai/workflow templates/board-meeting-pack/)
+- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
