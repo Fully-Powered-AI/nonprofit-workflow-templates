@@ -19,7 +19,7 @@ A bookkeeper or grants accountant starts it when finance needs to explain one re
 - The fund, its code and the period.
 - A summary of each gift agreement for the fund: reference, donor, the use as the finance lead states it, start and end dates and the amount stated.
 - The fund coding the finance lead has approved, account by account.
-- The ledger detail for the fund and period, as an export.
+- The ledger detail for the fund and period, as an export from your accounting system.
 - The prior reconciled balance, and the ledger balances at the start and end of the period.
 
 ## What comes out
