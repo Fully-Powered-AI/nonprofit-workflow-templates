@@ -49,11 +49,11 @@ Decide who the two leads are and who answers each kind of question. Use your own
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Edits made to the template and the example after that run, including a sharper rule for proposing a link, were checked by hand and not run again from the start; the record lists them. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Edits made to the template and the example after that run, including a sharper rule for proposing a link, were checked by hand and not run again from the start; the record lists them. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past program whose evaluation you already know, with cases written in advance: an activity with no stated outcome, an outcome with no activity, a measure that only counts sessions, feedback not approved for use. The evaluation lead checks every figure against the files supplied before anyone relies on the map.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -84,4 +84,4 @@ Testing in your environment means running it on a past program whose evaluation 
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

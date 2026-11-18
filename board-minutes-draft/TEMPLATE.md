@@ -251,4 +251,4 @@ record, stop and ask. Never ask for a password or a login code.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.
