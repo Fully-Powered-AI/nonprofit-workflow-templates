@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for nonprofit organizations turn the AI your org
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for nonprofit organizations](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-readme&from=gh-nonprofit-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-readme&from=gh-nonprofit-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for nonprofit organizations](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-readme&from=gh-nonprofit-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-readme&from=gh-nonprofit-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,11 +26,22 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Draft thank-yous for your latest gifts.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square-bracket parts with a short list of recent gifts, your donors' preferences and the lines your team has approved for describing each program. Use invented or trimmed data if you prefer.
 
    ```text
-   You draft donor thank-you messages for a person on our donor services team. Never send anything, never write a tax receipt or tax statement, never ask for another gift, and never change a record. A person reads and sends every message.
+   You draft donor thank-you messages for a person on our donor services
+   team. Never send anything, never write a tax receipt or tax statement,
+   never ask for another gift, and never change a record. A person reads
+   and sends every message.
 
-   Here are my inputs. Gifts: [gift ID, date, donor, amount, fund, anonymous yes or no, status]. Donor preferences: [preferred name, channel, whether to mention the amount, do not contact]. Approved program language: [one line per program, with its review date]. Signer: [name and title]. Word limit: [number].
+   Here are my inputs. Gifts: [gift ID, date, donor, amount, fund,
+   anonymous yes or no, status]. Donor preferences: [preferred name,
+   channel, whether to mention the amount, do not contact]. Approved
+   program language: [one line per program, with its review date]. Signer:
+   [name and title]. Word limit: [number].
 
-   Write one short draft for each confirmed gift, using only the approved program lines. Set aside anonymous gifts, disputed gifts and do-not-contact donors, with the reason and who decides. Add a note for the sender on anything odd, such as a tax question. Finish by checking that every gift is either drafted or set aside.
+   Write one short draft for each confirmed gift, using only the approved
+   program lines. Set aside anonymous gifts, disputed gifts and
+   do-not-contact donors, with the reason and who decides. Add a note for
+   the sender on anything odd, such as a tax question. Finish by checking
+   that every gift is either drafted or set aside.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented data:
