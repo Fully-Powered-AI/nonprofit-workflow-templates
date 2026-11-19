@@ -1,6 +1,6 @@
-# Funder report draft: an invented example
+# Funder report draft: an example
 
-*Illustrative example with invented data.* The organization, the funder, the roles, the records and every figure below are invented. The organization is an invented small tutoring nonprofit, "Organization O", with a grants manager, a program lead and a finance lead. "Funder F" is an invented funder. First come the inputs the grants manager supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The organization, the funder, the roles, the records and every figure below are illustrative. The organization is an illustrative small tutoring nonprofit, "Organization O", with a grants manager, a program lead and a finance lead. "Funder F" is an illustrative funder. First come the inputs the grants manager supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

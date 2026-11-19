@@ -1,6 +1,6 @@
-# Membership renewal and lapse list: an invented example
+# Membership renewal and lapse list: an example
 
-*Illustrative example with invented data.* The organization, its members, its staff and every figure below are invented. Arts Society A is an invented community arts association with three membership levels. First come the inputs the membership coordinator supplied, in full: the member export from the membership management system, the society's renewal rules, its approved facts for each level and today's date. Then the list the workflow template returned.
+*Illustrative example with sample data.* The organization, its members, its staff and every figure below are illustrative. Arts Society A is an illustrative community arts association with three membership levels. First come the inputs the membership coordinator supplied, in full: the member export from the membership management system, the society's renewal rules, its approved facts for each level and today's date. Then the list the workflow template returned.
 
 ## The inputs
 

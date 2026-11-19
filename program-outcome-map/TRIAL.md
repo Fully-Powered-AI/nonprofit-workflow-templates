@@ -1,11 +1,11 @@
-# Program outcome map: one trial on its invented example
+# Program outcome map: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5), run as a coding-agent session with file access, not in a chat window.
 Date: 2026-11-10.
 
-The inputs were the invented example in [example.md](example.md), the Kestrel Lane Reading Project, as it stood at the run (the A4 Notes then read "Each child takes books home to keep"; the example has been edited since, as the section on changes after the run lists). No client data was used. The run followed the instruction block in the complete template and its output format. Only the example's inputs were read before the map was produced; the example's own map and the reviewer checklist were read afterwards, for comparison.
+The inputs were the example in [example.md](example.md), the Kestrel Lane Reading Project, as it stood at the run (the A4 Notes then read "Each child takes books home to keep"; the example has been edited since, as the section on changes after the run lists). No client data was used. The run followed the instruction block in the complete template and its output format. Only the example's inputs were read before the map was produced; the example's own map and the reviewer checklist were read afterwards, for comparison.
 
 ## Inputs used
 

@@ -1,10 +1,10 @@
-# Restricted gift rollforward: tried once on its invented example
+# Restricted gift rollforward: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Cedar Row Youth Arts, Studio Access Fund, October 2026). No client data was used. The run followed the fenced instruction block and the output format in `member/template.md`. The model that ran it did not write the template.
+The inputs are the example in `public/example.md` (Cedar Row Youth Arts, Studio Access Fund, October 2026). No client data was used. The run followed the fenced instruction block and the output format in `member/template.md`. The model that ran it did not write the template.
 
 ## Inputs used
 

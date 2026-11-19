@@ -1,10 +1,10 @@
-# Board minutes draft: trial on the invented example
+# Board minutes draft: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Harrow Meadow Reading Trust, the board meeting of 3 November 2026). No client data was used.
+The inputs are the example in `public/example.md` (Harrow Meadow Reading Trust, the board meeting of 3 November 2026). No client data was used.
 
 This is the second run. A first run on the same day, by a reader who had not written the template, found that the example output did not follow the output format, restated some inputs in other words, and that the pasted instruction block left out procedure rules, and it listed eight places where the instructions were ambiguous. The template was then revised: the pasted block now carries the blank-time, off-roster, unlisted-document, closed-session, unmatched-notes and decline rules; the format has a closed-session line; and the template now says how to print a due condition, how a match on content counts, the order of action numbers, one gap per action, and whether attendance facts are remarks. The first run's record is replaced by this one. This run was made by the same session that revised the template, so it is a weaker test than a blind reader: I read the revised pasted block and the six inputs, produced the draft from them, and compared it with the example afterwards. The example's output was then rebuilt to match this run.
 
@@ -132,7 +132,7 @@ Prepared for Wren Dallimore. Nothing has been sent, filed, signed or changed in 
 
 **Reviewer checklist read against this output.** Items 1 to 5 hold: motion text is as supplied, tallies and results match the record with no result invented, no quorum statement is written, every action has its owner and date from the notes or says it has none, and the decision without a motion is marked as noted. Items 6 and 7 are for the secretary and chair: they must settle the five gaps and put the draft into the board's house style, which I could not do.
 
-**Limits of this trial.** It is one run on one invented meeting, made by the session that revised the template, in which no stop condition was triggered. The acceptance tests that need a stop (header mismatch, asked about quorum, asked to tidy a motion, tally mismatch) were not run, and neither were the new rules for a blank motion time or a person not on the roster. This is not a test in a client environment.
+**Limits of this trial.** It is one run on one illustrative meeting, made by the session that revised the template, in which no stop condition was triggered. The acceptance tests that need a stop (header mismatch, asked about quorum, asked to tidy a motion, tally mismatch) were not run, and neither were the new rules for a blank motion time or a person not on the roster. This is not a test in a client environment.
 
 ## Clarifications made after review
 

@@ -1,10 +1,10 @@
-# Volunteer shift options: trial on the invented example
+# Volunteer shift options: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example published with this template (Marrow Creek Community Meals, the Autumn Neighbor Supper). No client data was used. The run was done by an assistant that had not written the template and had not read the example's output beforehand: it followed the instruction block and the output format on the inputs in `public/example.md`, then compared the result with the published output.
+The inputs are the example published with this template (Marrow Creek Community Meals, the Autumn Neighbor Supper). No client data was used. The run was done by an assistant that had not written the template and had not read the example's output beforehand: it followed the instruction block and the output format on the inputs in `public/example.md`, then compared the result with the published output.
 
 ## Inputs used
 

@@ -8,7 +8,7 @@ Get a working schedule for one restricted fund: opening balance, gifts, coded sp
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/restricted-gift-rollforward/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward)*
@@ -35,7 +35,7 @@ A bookkeeper or grants accountant starts it when finance needs to explain one re
 
 A working schedule in a fixed order: the stated uses as supplied, the rollforward with its difference, gifts by agreement, expenditure by the finance lead's coding, transfers, the numbered list of unresolved differences, the rows left out and a row count that proves every row in the export was placed or set aside.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ Keep a summary of each agreement, in your own terms, with the fund. Approve the 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it, lists the ambiguities it met, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it, lists the ambiguities it met, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past period whose answer you already know, with cases written in advance: a gift with no agreement reference, a gift dated before its agreement began, an expense on an account missing from the coding, a possible duplicate and a ledger balance that does not agree. The finance lead checks every figure against the ledger before anything is relied on.
 
@@ -62,13 +62,13 @@ Testing in your environment means running it on a past period whose answer you a
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

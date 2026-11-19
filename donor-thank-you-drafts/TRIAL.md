@@ -1,10 +1,10 @@
-# Donor thank-you drafts: one trial on the invented example
+# Donor thank-you drafts: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (Harbor Lane Food Pantry, eight gifts, six donor preferences, four approved program lines, the settings). No client data was used. The run followed the instruction block and the output format in the member template as they now stand.
+The inputs are the example in [example.md](example.md) (Harbor Lane Food Pantry, eight gifts, six donor preferences, four approved program lines, the settings). No client data was used. The run followed the instruction block and the output format in the member template as they now stand.
 
 This is the third run, made the same day. The first run was on an earlier wording of the block that left the greeting, sign-off, subject, currency and the tribute and monthly-gift sentences open. The second run, on a revised block, matched the published example exactly. Review then asked for small clarifications to the block (the default amount rule, the default window and word limit, how business days are counted, the tribute-line order, a draft exactly at the word limit) and for the check line to follow the output format; this run was made on the clarified block, and this record replaces the second. It was not blind: the published example and the earlier runs' observations were in view when the block was revised and when this run was made, so the close match with the published example below is expected and is not independent evidence that the block is clear.
 
@@ -127,4 +127,4 @@ Prepared for Marcus Ibarra. Nothing has been sent, posted or changed in any reco
   - The order of the two approved lines in a tribute draft was taken from the block (Tribute line, then fund line).
   - The run date may fall on a day the gift was already thanked in a previous batch; the template has no way to know.
 - **Not exercised by this run:** a header mismatch, a stale program line, a do-not-contact donor, a missing preferences row, a fund with no line, a tribute gift with no Tribute line, a request for an ask. Acceptance tests 2, 4, 8 and 10 have not been run; test 3 was run on the Anonymous Yes row only.
-- **What this does not show:** it is one run, by one model, on invented data, made with the example in view. It is not a test in a real environment and says nothing about how the workflow template performs for a real organization.
+- **What this does not show:** it is one run, by one model, on sample data, made with the example in view. It is not a test in a real environment and says nothing about how the workflow template performs for a real organization.

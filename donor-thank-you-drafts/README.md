@@ -8,7 +8,7 @@ A draft thank-you for each confirmed gift, in the donor's channel and your appro
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/donor-thank-you-drafts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts)*
@@ -34,7 +34,7 @@ Someone in donor services starts it after a batch of gifts has been confirmed in
 
 A batch page: one draft for each gift that can be thanked, each with its channel and the approved line it used, then a list of gifts set aside with the reason and who decides, then a check that every row in the register is accounted for. Where something is missing or doubtful, the draft carries a plain note for the person sending it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -52,7 +52,7 @@ Decide who signs and in what voice. Write your approved program lines, one per f
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past batch whose thank-yous you already know, with cases written in advance: an anonymous gift, a disputed amount, a donor who asked not to be contacted, a program line that is out of date. Donor services checks every draft against the register before anything is sent.
 
@@ -60,13 +60,13 @@ Testing in your environment means running it on a past batch whose thank-yous yo
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -262,4 +262,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 19 November 2026. Written by FullyPowered AI. Tried on its invented example on 19 November 2026, and the record is published with it; the example's inputs and this block were then edited (an organization name and subject lines added, and some wording made explicit) and the record was rewritten after a second run. Not yet tested in a client environment.
+- 0.1.0, 19 November 2026. Written by FullyPowered AI. Tried on its example on 19 November 2026, and the record is published with it; the example's inputs and this block were then edited (an organization name and subject lines added, and some wording made explicit) and the record was rewritten after a second run. Not yet tested in a client environment.

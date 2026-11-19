@@ -1,6 +1,6 @@
-# Program outcome map: an invented example
+# Program outcome map: an example
 
-*Illustrative example with invented data.* Kestrel Lane Reading Project is an invented after-school reading program. Its staff, partner schools, figures and feedback are invented, and so are all names. First come the inputs the program lead supplied, in full, then the map the workflow template returned.
+*Illustrative example with sample data.* Kestrel Lane Reading Project is an illustrative after-school reading program. Its staff, partner schools, figures and feedback are illustrative, and so are all names. First come the inputs the program lead supplied, in full, then the map the workflow template returned.
 
 ## The inputs
 

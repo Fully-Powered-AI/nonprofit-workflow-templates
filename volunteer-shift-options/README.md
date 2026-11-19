@@ -8,7 +8,7 @@ Once an event's availability replies are in, get draft shift options with every 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/volunteer-shift-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options)*
@@ -37,7 +37,7 @@ The volunteer lead starts it when the availability replies for an event have com
 
 One page in a fixed order. The places still to fill, with the volunteers who could take each. Two draft options, each showing who is placed where, what is left uncovered and why, and which volunteers are not placed. Then the flags that need a person: pending confirmations, hours that do not cover a shift, requirements not on record, volunteers' own notes, and questions only the lead can settle. Volunteers appear by the code and name in your files, and no contact details are repeated.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Rename the roles and shifts to match your events. List the requirements you actu
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. Edits made after that run have not been run again: Option 1 was renamed, its overlap rule now also excludes a volunteer whose drafted shifts overlap, the date style and the rules for "Limit not stated for", "limit reached" and shared questions were settled, and the example was corrected to match. Its acceptance tests 2 to 14 are proposed and have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record of that run is published with it. Edits made after that run have not been run again: Option 1 was renamed, its overlap rule now also excludes a volunteer whose drafted shifts overlap, the date style and the rules for "Limit not stated for", "limit reached" and shared questions were settled, and the example was corrected to match. Its acceptance tests 2 to 14 are proposed and have not been run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past event whose staffing you already know, with cases written in advance: a reply that covers only part of a shift, an expired card, a volunteer with a note about back-to-back shifts, a pending confirmation and a renamed column. The lead checks every place against the files before anyone is asked to confirm.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on a past event whose staffing you 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

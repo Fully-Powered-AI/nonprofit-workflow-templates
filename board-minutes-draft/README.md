@@ -8,7 +8,7 @@ Get draft board minutes built only from your notes, agenda, motions and vote rec
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-minutes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft)*
@@ -38,7 +38,7 @@ The board secretary starts it soon after the meeting, while memory of the room i
 
 One draft in a fixed order: the meeting details, attendance, the proceedings item by item, the documents referred to, the actions, a blank approval line, the gaps for the secretary, and a check that the counts agree with the inputs. Each motion appears with its wording, movers, tally and recorded result. Each gap is marked where it occurs and listed at the end.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -55,7 +55,7 @@ Decide how full your minutes are: decisions and actions only, or a short account
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs in Claude; the record of the second is published with it. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in two runs in Claude; the record of the second is published with it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on a past meeting whose approved minutes you already have, with cases written in advance: a vote with no result recorded, a decision described in the notes but in no motion, a director who left before a vote, an action with no owner. The secretary checks every line against the record before anyone relies on it.
 
@@ -63,13 +63,13 @@ Testing in your environment means running it on a past meeting whose approved mi
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

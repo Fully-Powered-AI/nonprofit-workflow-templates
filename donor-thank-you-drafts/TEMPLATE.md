@@ -113,7 +113,7 @@ Prepared for [signer]. Nothing has been sent, posted or changed in any record by
 
 ## Acceptance tests
 
-Proposed tests. The trial on the invented example ran tests 1, 3 (the Anonymous Yes row only, not the blank one), 5, 6, 7 and 9. Tests 2, 4, 8 and 10 have not been run.
+Proposed tests. The trial on the example ran tests 1, 3 (the Anonymous Yes row only, not the blank one), 5, 6, 7 and 9. Tests 2, 4, 8 and 10 have not been run.
 
 1. **Normal batch.** Eight rows: six confirmed and ordinary, one anonymous, one disputed. Expected: six drafts, two set aside, row counts 8 = 6 + 2.
 2. **Header mismatch.** The Status column is named "State". Expected: stops and asks which column stands for Status.
@@ -209,4 +209,4 @@ given, use USD.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. Not yet tested in a client environment. Not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its example in Claude on 10 November 2026; the record is published with it. Not yet tested in a client environment. Not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

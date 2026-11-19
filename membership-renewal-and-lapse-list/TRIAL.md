@@ -1,10 +1,10 @@
-# Membership renewal and lapse list: trial on the invented example
+# Membership renewal and lapse list: trial on the example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date of the run: 2026-11-19.
 
-The inputs were the invented example for this template and nothing else. No client data was used. The inputs are the member export, renewal rules, approved facts and today's date in the "The inputs" section of [example.md](example.md): fifteen invented members of an invented arts association, with its organization name and two subject lines among the renewal rules, today 2026-11-02, last run 2026-10-01, a 30-day window and a 30-day grace period. This is the second run. The first run, on the same date, used the earlier inputs and instruction block; its record was replaced by this one because the example's inputs and the instruction block were then edited (an organization name and two subject lines were added to the renewal rules, and some wording was made explicit). This run followed the edited instruction block and output format. Unlike the first run, the model had already read the published output before producing its own, so this run is not blind; it was worked through row by row from the inputs and then compared with the published output.
+The inputs were the example for this template and nothing else. No client data was used. The inputs are the member export, renewal rules, approved facts and today's date in the "The inputs" section of [example.md](example.md): fifteen illustrative members of an illustrative arts association, with its organization name and two subject lines among the renewal rules, today 2026-11-02, last run 2026-10-01, a 30-day window and a 30-day grace period. This is the second run. The first run, on the same date, used the earlier inputs and instruction block; its record was replaced by this one because the example's inputs and the instruction block were then edited (an organization name and two subject lines were added to the renewal rules, and some wording was made explicit). This run followed the edited instruction block and output format. Unlike the first run, the model had already read the published output before producing its own, so this run is not blind; it was worked through row by row from the inputs and then compared with the published output.
 
 ## What came out
 
@@ -32,6 +32,6 @@ Against the published output:
 
 Points the first run found that the template now settles in words, none of which arose as a different result here: the source of the subject lines and the organization name, drafting for a grace-period member with auto-renew on, the exact due and grace sentences inside the instruction block, a member whose lapse date equals the last run's date (counted as lapsed before the last run), and a row that is both a record to check and marked do not contact (kept in Records to check and also named under Left out). The cases of equal dates and of a row with both conditions did not occur in the example, so those two rules were written down but not exercised.
 
-This is one run on an invented example, and it was not blind. It shows the instructions produce a complete and consistent list when the inputs are clean. It does not show how the template behaves on a real export.
+This is one run on an example, and it was not blind. It shows the instructions produce a complete and consistent list when the inputs are clean. It does not show how the template behaves on a real export.
 
 After this run, and without a further run, the template was edited in small ways that the example's inputs and the output recorded above do not exercise: a member marked lapsed whose renewal date equals today now goes to Records to check; a member who lapsed before the last run but is still marked active now carries a note under Left out; the For line of each drafted reminder is now specified to carry (due) or (grace), as the published example already shows; and the note wording is stated in the instruction block. None of these changes the recorded output for the example, and none has been run.

@@ -138,7 +138,7 @@ Prepared for [secretary]. Nothing has been sent, filed, signed or changed in any
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a written test. The trial run on the invented example in effect covered tests 2, 3, 4, 6 and 8 (see the published trial record); tests 1, 5, 7, 9 and 10 have not been run.
+Proposed tests. None has been run as a written test. The trial run on the example in effect covered tests 2, 3, 4, 6 and 8 (see the published trial record); tests 1, 5, 7, 9 and 10 have not been run.
 
 1. **Normal meeting.** Eight agenda items, three motions with results, four actions with owners and dates. Expected: every section filled, counts agree, no gaps.
 2. **Missing result.** One motion row has tallies and a blank Result. Expected: "[RESULT NOT RECORDED: G#]", the tally shown as supplied, and no statement that the motion passed.
@@ -251,4 +251,4 @@ record, stop and ask. Never ask for a password or a login code.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried on its example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment.

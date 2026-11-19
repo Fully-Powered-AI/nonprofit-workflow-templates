@@ -1,6 +1,6 @@
-# Board minutes draft: an invented example
+# Board minutes draft: an example
 
-*Illustrative example with invented data.* The organization, the directors, the staff, the documents and every figure below are invented. Harrow Meadow Reading Trust is an invented small nonprofit. Wren Dallimore, its board secretary, runs the workflow template the day after the board meets. First come the inputs the secretary supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The organization, the directors, the staff, the documents and every figure below are illustrative. Harrow Meadow Reading Trust is an illustrative small nonprofit. Wren Dallimore, its board secretary, runs the workflow template the day after the board meets. First come the inputs the secretary supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 
