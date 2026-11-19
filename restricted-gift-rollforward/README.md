@@ -4,6 +4,8 @@ The finance lead gets a working schedule for one named restricted fund: opening 
 
 *Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/restricted-gift-rollforward/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/restricted-gift-rollforward/?from=gh-nonprofit-restricted-gift-rollforward)
+
 ## The outcome
 
 When someone asks what happened in a restricted fund this period, the finance lead has the answer on one schedule. It starts from the balance that was last reconciled, adds the gifts the ledger recorded, takes off the spending coded to the fund, shows any transfers, and ends at a closing balance that is compared with the ledger. Where the two do not agree, the schedule says by how much and which part of the gap comes from the opening balance and which from the movement.

@@ -4,6 +4,8 @@ Donor services staff get one draft thank-you for each new gift, written from the
 
 *Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/donor-thank-you-drafts/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/donor-thank-you-drafts/?from=gh-nonprofit-donor-thank-you-drafts)
+
 ## The outcome
 
 Every confirmed gift has a warm, specific thank-you waiting for a person to read: the donor's preferred name, the gift as the register records it, the line of program language your organization has already approved (a tribute gift gets the approved tribute line and then the fund line), in the channel the donor asked for. The team spends its time on the personal touches that matter instead of assembling the same message from five places.

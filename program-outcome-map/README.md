@@ -4,6 +4,8 @@ Before an evaluation, the program and evaluation leads get one map linking each 
 
 *Workflow template · Nonprofits · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/program-outcome-map/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/program-outcome-map/?from=gh-nonprofit-program-outcome-map)
+
 ## The outcome
 
 Everyone preparing for the evaluation looks at the same page. Each activity sits beside the outcome it is meant to serve, with the measures you already collect, the measures worth adding, the data each would come from and the assumption that has to hold for the activity to lead to the outcome.

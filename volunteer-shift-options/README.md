@@ -4,6 +4,8 @@ A volunteer lead gets draft shift options once an event's availability replies a
 
 *Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/volunteer-shift-options/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/volunteer-shift-options/?from=gh-nonprofit-volunteer-shift-options)
+
 ## The outcome
 
 The replies are in and the lead can see the whole event on one page. For every shift and role, the page shows how many places are needed, how many are already confirmed, how many are waiting on an answer, and which volunteers could take what is left. Two draft options follow, one that fills places in a set order until no more can be filled (not a guaranteed maximum) and one that gives each volunteer a single shift, so the lead can see what each choice costs in gaps.

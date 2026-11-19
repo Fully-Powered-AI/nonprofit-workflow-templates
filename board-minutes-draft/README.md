@@ -4,6 +4,8 @@ After a board meeting, the secretary gets draft minutes built only from what the
 
 *Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-minutes-draft/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/board-minutes-draft/?from=gh-nonprofit-board-minutes-draft)
+
 ## The outcome
 
 The secretary opens a complete first draft instead of a blank page. It follows the agenda, lists who was in the room and when they came and went, sets each motion down word for word as supplied, shows the vote as the record gives it, names the documents the board looked at, and lists every action with its owner and date.

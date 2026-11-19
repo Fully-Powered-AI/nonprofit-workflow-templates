@@ -4,6 +4,8 @@ Before a funder report is due, the grants manager gets a draft written to the fu
 
 *Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/funder-report-draft/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/funder-report-draft/?from=gh-nonprofit-funder-report-draft)
+
 ## The outcome
 
 A funder report is mostly gathering. The questions are the funder's, the records sit in four places, and the draft is written in a rush in the last week. This workflow template does the gathering and the first draft in one pass, early enough that the gaps can still be filled.
