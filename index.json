@@ -28,6 +28,14 @@
       "directory": "https://fullypowered.ai/workflows/funder-report-draft/"
     },
     {
+      "id": "membership-renewal-and-lapse-list",
+      "name": "Membership renewal and lapse list",
+      "version": "0.1.0",
+      "summary": "Once a month the membership coordinator gets one list from the member export: who is due to renew, who is in the grace period, who has lapsed since the last run and which records need fixing, with a renewal reminder and a lapsed-member note drafted for each level. A person checks and sends everything.",
+      "path": "membership-renewal-and-lapse-list/",
+      "directory": "https://fullypowered.ai/workflows/membership-renewal-and-lapse-list/"
+    },
+    {
       "id": "program-outcome-map",
       "name": "Program outcome map",
       "version": "0.1.0",

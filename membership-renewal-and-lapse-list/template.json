@@ -1,0 +1,46 @@
+{
+  "id": "membership-renewal-and-lapse-list",
+  "name": "Membership renewal and lapse list",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Once a month the membership coordinator gets one list from the member export: who is due to renew, who is in the grace period, who has lapsed since the last run and which records need fixing, with a renewal reminder and a lapsed-member note drafted for each level. A person checks and sends everything.",
+  "directory": "https://fullypowered.ai/workflows/membership-renewal-and-lapse-list/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/nonprofits",
+    "industries/education",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "donor-thank-you-drafts",
+    "renewal-risk-review",
+    "lapsed-customer-win-back"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own original writing on membership renewal work for associations and member-funded organizations."
+    }
+  ]
+}
