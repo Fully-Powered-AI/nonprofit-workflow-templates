@@ -1,10 +1,17 @@
 # Board minutes draft
 
-After a board meeting, the secretary gets draft minutes built only from what they supply: notes, agenda, motion text and vote record. Attendance, motions, votes, documents and actions are laid out, and every gap is marked for the secretary to settle.
+Get draft board minutes built only from your notes, agenda, motions and vote record, with every gap marked. The secretary checks and the board approves.
 
-*Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-minutes-draft/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Board minutes draft on our website](https://fullypowered.ai/workflows/board-minutes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/board-minutes-draft/?from=gh-nonprofit-board-minutes-draft)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Nonprofits · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/board-minutes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft)*
 
 ## The outcome
 
@@ -35,12 +42,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where the board secretary is often a volunteer or a busy staff member and the minutes are the organization's formal record.
-- [Education](https://fullypowered.ai/industries/education/), for school, college and foundation boards that keep minutes of each meeting.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), because the work is the secretary's: turning a meeting into a record.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a board and a rhythm of meetings already in place.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), where the board secretary is often a volunteer or a busy staff member and the minutes are the organization's formal record.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), for school, college and foundation boards that keep minutes of each meeting.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), because the work is the secretary's: turning a meeting into a record.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), for organizations with a board and a rhythm of meetings already in place.
 
-It is not [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/), which prepares an agenda and a one-page record for whoever runs an ordinary meeting. It is not the [board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/), which prepares the board's reading before a meeting. And it is not the [decision log](https://fullypowered.ai/workflows/decision-log/), which keeps a running register of decisions across meetings.
+It is not [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), which prepares an agenda and a one-page record for whoever runs an ordinary meeting. It is not the [board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), which prepares the board's reading before a meeting. And it is not the [decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft), which keeps a running register of decisions across meetings.
 
 ## What has to change for your company
 
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past meeting whose approved mi
 
 ## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
-- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-board-minutes-draft&from=gh-nonprofit-board-minutes-draft).

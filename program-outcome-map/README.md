@@ -1,10 +1,17 @@
 # Program outcome map
 
-Before an evaluation, the program and evaluation leads get one map linking each activity to the outcome it is meant to serve, with proposed measures, data sources, assumptions and the questions the evidence cannot yet answer. It claims no impact.
+Get one map linking each activity to its intended outcome, with measures, data sources and open questions before an evaluation. The leads decide.
 
-*Workflow template · Nonprofits · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/program-outcome-map/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Program outcome map on our website](https://fullypowered.ai/workflows/program-outcome-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/program-outcome-map/?from=gh-nonprofit-program-outcome-map)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Nonprofits · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/program-outcome-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map)*
 
 ## The outcome
 
@@ -35,15 +42,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), which owns the measures and the reporting behind an evaluation.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), because the activities are the program's delivery.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where funders ask what changed as well as what was done.
-- [Education](https://fullypowered.ai/industries/education/), for tutoring, outreach and family programs run by schools and foundations.
-- [Government](https://fullypowered.ai/industries/government/), for public programs reviewed against their stated aims.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a program in place and an evaluation due.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a program is about to expand and the case for it needs to be clear.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), which owns the measures and the reporting behind an evaluation.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), because the activities are the program's delivery.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), where funders ask what changed as well as what was done.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), for tutoring, outreach and family programs run by schools and foundations.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), for public programs reviewed against their stated aims.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), for organizations with a program in place and an evaluation due.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), when a program is about to expand and the case for it needs to be clear.
 
-It is not [analysis plan](https://fullypowered.ai/workflows/analysis-plan/), which plans the questions to put to a particular dataset, and it is not [operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/), which reports a fixed set of measures month by month. [Assumption map](https://fullypowered.ai/workflows/assumption-map/) ranks the untested beliefs behind a product plan; this one lays out the activity-to-outcome links of a program.
+It is not [analysis plan](https://fullypowered.ai/workflows/analysis-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), which plans the questions to put to a particular dataset, and it is not [operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map), which reports a fixed set of measures month by month. [Assumption map](https://fullypowered.ai/workflows/assumption-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map) ranks the untested beliefs behind a product plan; this one lays out the activity-to-outcome links of a program.
 
 ## What has to change for your company
 
@@ -80,10 +87,10 @@ Testing in your environment means running it on a past program whose evaluation 
 
 ## Related workflow templates
 
-- [Analysis plan](https://fullypowered.ai/workflows/analysis-plan/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
-- [Assumption map](https://fullypowered.ai/workflows/assumption-map/)
+- [Analysis plan](https://fullypowered.ai/workflows/analysis-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map)
+- [Assumption map](https://fullypowered.ai/workflows/assumption-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-program-outcome-map&from=gh-nonprofit-program-outcome-map).

@@ -1,10 +1,17 @@
 # Restricted gift rollforward
 
-The finance lead gets a working schedule for one named restricted fund: opening balance, recorded gifts, coded expenditure and closing balance, with every unresolved difference listed from the gift agreement summary and the ledger detail. Nothing is posted.
+Get a working schedule for one restricted fund: opening balance, gifts, coded spending and closing balance, with differences listed. A person decides.
 
-*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/restricted-gift-rollforward/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Restricted gift rollforward on our website](https://fullypowered.ai/workflows/restricted-gift-rollforward/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/restricted-gift-rollforward/?from=gh-nonprofit-restricted-gift-rollforward)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/restricted-gift-rollforward/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward)*
 
 ## The outcome
 
@@ -32,14 +39,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where donors give for a stated purpose and the funder or board expects the books to show it.
-- [Education](https://fullypowered.ai/industries/education/), for schools and foundations that hold endowed or program-restricted funds.
-- [Healthcare](https://fullypowered.ai/industries/healthcare/), for community clinics and hospital foundations with gifts given for a named purpose.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the ledger, the coding and the close.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a ledger and a routine already in place.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when restricted gifts multiply faster than one person can track them.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), where donors give for a stated purpose and the funder or board expects the books to show it.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), for schools and foundations that hold endowed or program-restricted funds.
+- [Healthcare](https://fullypowered.ai/industries/healthcare/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), for community clinics and hospital foundations with gifts given for a named purpose.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), which owns the ledger, the coding and the close.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), for organizations with a ledger and a routine already in place.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), when restricted gifts multiply faster than one person can track them.
 
-It is not [bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/), which matches a bank statement to the books, and it is not [journal entry preparation](https://fullypowered.ai/workflows/journal-entry-preparation/), which proposes entries. It proposes none.
+It is not [bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), which matches a bank statement to the books, and it is not [journal entry preparation](https://fullypowered.ai/workflows/journal-entry-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward), which proposes entries. It proposes none.
 
 ## What has to change for your company
 
@@ -76,10 +83,10 @@ Testing in your environment means running it on a past period whose answer you a
 
 ## Related workflow templates
 
-- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)
-- [Journal entry preparation](https://fullypowered.ai/workflows/journal-entry-preparation/)
-- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward)
+- [Journal entry preparation](https://fullypowered.ai/workflows/journal-entry-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-restricted-gift-rollforward&from=gh-nonprofit-restricted-gift-rollforward).

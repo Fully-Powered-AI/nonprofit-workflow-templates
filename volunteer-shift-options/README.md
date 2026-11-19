@@ -1,10 +1,17 @@
 # Volunteer shift options
 
-A volunteer lead gets draft shift options once an event's availability replies are in: each role's needs set against who volunteered, the requirements on record and the shifts already confirmed, with every uncovered position shown. The lead checks and confirms; nothing is assigned or sent.
+Once an event's availability replies are in, get draft shift options with every uncovered position shown. The volunteer lead checks and confirms.
 
-*Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/volunteer-shift-options/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Volunteer shift options on our website](https://fullypowered.ai/workflows/volunteer-shift-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/volunteer-shift-options/?from=gh-nonprofit-volunteer-shift-options)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Nonprofits · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/volunteer-shift-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options)*
 
 ## The outcome
 
@@ -34,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), because the work is matching people to places, with the lead keeping every decision about them.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where an event's day is made to work with the people who offered.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where events run on volunteers and the replies arrive in a pile.
-- [Education](https://fullypowered.ai/industries/education/), for school and college events staffed by parents, alumni and students.
-- [Government](https://fullypowered.ai/industries/government/), for community events run by a public office or library.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations that hold the same events year after year.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the volunteer list outgrows what a lead can hold in their head.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), because the work is matching people to places, with the lead keeping every decision about them.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), where an event's day is made to work with the people who offered.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), where events run on volunteers and the replies arrive in a pile.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), for school and college events staffed by parents, alumni and students.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), for community events run by a public office or library.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), for organizations that hold the same events year after year.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), when the volunteer list outgrows what a lead can hold in their head.
 
-It is not the [event plan](https://fullypowered.ai/workflows/event-plan/), which plans the event itself, and it is not the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/), which welcomes someone who has already joined. The [service roster options](https://fullypowered.ai/workflows/service-roster-options/) work in headcounts for paid staff; this one works with named volunteers and the offers they made.
+It is not the [event plan](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), which plans the event itself, and it is not the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options), which welcomes someone who has already joined. The [service roster options](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options) work in headcounts for paid staff; this one works with named volunteers and the offers they made.
 
 ## What has to change for your company
 
@@ -79,10 +86,10 @@ Testing in your environment means running it on a past event whose staffing you 
 
 ## Related workflow templates
 
-- [Event plan](https://fullypowered.ai/workflows/event-plan/)
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
-- [Service roster options](https://fullypowered.ai/workflows/service-roster-options/)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options)
+- [Service roster options](https://fullypowered.ai/workflows/service-roster-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-volunteer-shift-options&from=gh-nonprofit-volunteer-shift-options).

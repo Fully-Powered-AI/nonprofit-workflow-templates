@@ -1,10 +1,17 @@
 # Funder report draft
 
-Before a funder report is due, the grants manager gets a draft written to the funder's own questions, with every number tied to a record, an index of the evidence behind each statement and a list of what is still unanswered. People verify it, approve it and submit it.
+Get a funder report drafted to the funder's own questions, with every number tied to a record. People verify it, approve it and submit it.
 
-*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/funder-report-draft/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Funder report draft on our website](https://fullypowered.ai/workflows/funder-report-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/funder-report-draft/?from=gh-nonprofit-funder-report-draft)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Nonprofits · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/funder-report-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft)*
 
 ## The outcome
 
@@ -37,12 +44,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where spending is reviewed against the approved budget before it is reported.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), for the discipline of tying every number in a report to a record.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where grant reports draw on program, finance and grants staff at once.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where reporting routines live in one person's head and should live on a page.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft), where spending is reviewed against the approved budget before it is reported.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft), for the discipline of tying every number in a report to a record.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft), where grant reports draw on program, finance and grants staff at once.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft), where reporting routines live in one person's head and should live on a page.
 
-It stands apart from [Investor update](https://fullypowered.ai/workflows/investor-update/), which tells owners how the business is doing in the founder's chosen story, and from [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/), which prepares directors for a decision. A funder report answers the funder's own questions from the period's records.
+It stands apart from [Investor update](https://fullypowered.ai/workflows/investor-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft), which tells owners how the business is doing in the founder's chosen story, and from [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft), which prepares directors for a decision. A funder report answers the funder's own questions from the period's records.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Keep the funder's template for each grant and its limits. Check that your export
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past report your grants manager knows well, plus hard cases written in advance: a measure with no figure, a row with no source, a spending line nobody reviewed, a question about the award. The program lead and the finance lead check every number against the records before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past report your grants manager knows well, plus hard cases written in advance: a measure with no figure, a row with no source, a spending line nobody reviewed, a question about the award. The program lead and the finance lead check every number against the records before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on a past report your grants manage
 
 ## Related workflow templates
 
-- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
-- [Investor update](https://fullypowered.ai/workflows/investor-update/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft)
+- [Investor update](https://fullypowered.ai/workflows/investor-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-funder-report-draft&from=gh-nonprofit-funder-report-draft).

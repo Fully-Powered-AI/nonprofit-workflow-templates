@@ -1,10 +1,17 @@
 # Donor thank-you drafts
 
-Donor services staff get one draft thank-you for each new gift, written from the confirmed gift details, the donor's communication preferences and the organization's approved program language. A person checks and sends every message; nothing asks for another gift.
+A draft thank-you for each confirmed gift, in the donor's channel and your approved program language. Donor services checks and sends every message.
 
-*Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/donor-thank-you-drafts/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Donor thank-you drafts on our website](https://fullypowered.ai/workflows/donor-thank-you-drafts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/donor-thank-you-drafts/?from=gh-nonprofit-donor-thank-you-drafts)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Nonprofits · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/donor-thank-you-drafts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts)*
 
 ## The outcome
 
@@ -31,13 +38,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where thanking a gift well and soon is part of keeping the donor.
-- [Education](https://fullypowered.ai/industries/education/), for schools, colleges and foundations that thank donors by name.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), because the work is writing in the organization's own voice.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), for organizations with a donor base and a routine already in place.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when gifts arrive faster than one person can thank them.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), where thanking a gift well and soon is part of keeping the donor.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), for schools, colleges and foundations that thank donors by name.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), because the work is writing in the organization's own voice.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), for organizations with a donor base and a routine already in place.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), when gifts arrive faster than one person can thank them.
 
-It is not [customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/), which answers a message someone has sent in, and it is not [creator outreach drafting](https://fullypowered.ai/workflows/creator-outreach-drafting/), which opens a conversation with someone new.
+It is not [customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), which answers a message someone has sent in, and it is not [creator outreach drafting](https://fullypowered.ai/workflows/creator-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts), which opens a conversation with someone new.
 
 ## What has to change for your company
 
@@ -74,10 +81,10 @@ Testing in your environment means running it on a past batch whose thank-yous yo
 
 ## Related workflow templates
 
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
-- [Creator outreach drafting](https://fullypowered.ai/workflows/creator-outreach-drafting/)
-- [Content plan](https://fullypowered.ai/workflows/content-plan/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts)
+- [Creator outreach drafting](https://fullypowered.ai/workflows/creator-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts)
+- [Content plan](https://fullypowered.ai/workflows/content-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=nonprofit-donor-thank-you-drafts&from=gh-nonprofit-donor-thank-you-drafts).
